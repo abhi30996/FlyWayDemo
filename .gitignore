@@ -21,5 +21,3 @@ build/
 *.iml
 *.ipr
 out/
-
-*.sql
