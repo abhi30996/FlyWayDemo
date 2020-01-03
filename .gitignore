@@ -19,5 +19,5 @@ build/
 .idea
 *.iws
 *.iml
-#*.ipr
+*.ipr
 out/
